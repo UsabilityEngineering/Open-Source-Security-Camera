@@ -57,7 +57,7 @@ We decided to use these instruments because the form made for an easy medium for
   <li>Because we haven’t found anyone to do a contextual inquiry with, we are currently limited to the data from our survey. While this information is useful to get a picture of the interest, it does not provide what a contextual inquiry would. </li>
 </ul>
 
-[Personas and Scenarios](/personas_and_scenarios_ossc.pdf)
+[Personas and Scenarios](/personas_and_scenarios_ossc.pdf) 
 
 
 [Google Survey](https://forms.gle/2cAM2g2pP8zYtfvn8)
