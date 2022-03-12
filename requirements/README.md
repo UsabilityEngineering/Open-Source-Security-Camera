@@ -50,7 +50,7 @@ We decided to use these instruments because the form made for an easy medium for
   <li>In our questionnaire we found that potential users are weary of open source, it may be worth discussing whether or not we should promote the open sourceness of our project as much as the other features </li>
 </ul>
 
-## Conclusions
+## Caveats
 
 <ul>
   <li>Due to the small number of participants and limited reach of the survey, we have a very niche demographic currently being the only one surveyed. That demographic being the younger, technology savvy, computer science students in our course that will know more about software and data security.</li>
