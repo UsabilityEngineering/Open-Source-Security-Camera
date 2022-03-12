@@ -13,7 +13,7 @@ It is our belief that there are many people who would like to get a home or busi
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](/personas_and_scenarios_ossc.pdf) - Coming soon!
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
