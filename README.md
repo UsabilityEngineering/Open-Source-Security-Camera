@@ -6,7 +6,7 @@ It is our belief that there are many people who would like to get a home or busi
 
 ## UX Team Members
 
-* **[Nicholas Hibabrd](https://usabilityengineering.github.io/ux-portfolio-nickhib/)** - Helped with the questionnaire, wrote the personas and scenarios.
+* **[Nicholas Hibabrd](https://usabilityengineering.github.io/ux-portfolio-nickhib/)** - Helped with the questionnaire, wrote the personas and scenarios.met with the software team to get a better understanding of the project and what they’ve done so far.gace out the questionnaire.
 * **[John Koistinen](https://discord.com/channels/@me/946508686468210688/952023828274487327)** - Helped develop the questionnaire, wrote about findings from the questionnaire, and helped write about the conclusions that were drawn from the questionnaire
 * **[Sean O'Leary](https://usabilityengineering.github.io/ux-portfolio-seanoleary22/)** - Helped write questionnaire, wrote Caveats, studied videos for Contextual inquiry, and helped write about conclusions drawn from the questionnaire.
 
