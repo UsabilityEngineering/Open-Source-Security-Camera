@@ -1,8 +1,8 @@
 # Requirements Gathering
 
-### Methods
+## Methods
 
-## Questionnaire & Contextual Inquiry
+### Questionnaire & Contextual Inquiry
 
 We decided to use these instruments because the form made for an easy medium for distribution and data collection, and we believed that the contextual inquiry would be useful to see how a user would interact with a current competitor and how that benefitted or retracted from their experience
 
@@ -13,7 +13,7 @@ We decided to use these instruments because the form made for an easy medium for
   <li>Contextual Inquiry n=0 (we are still working on sourcing somebody or some way to perform the inquiry on a competing system but it has proven difficult as its expensive and security based so it is difficult to find somebody who has one, or somebody who is comfortable sharing their experience.</li>
 </ul>
 
-### Findings
+## Findings
 
   **Questionnaire**
 
@@ -42,7 +42,7 @@ We decided to use these instruments because the form made for an easy medium for
  <li>We did not get any of the volunteers for our contextual inquiry to share their security systems experience with us as most of the people we interviewed either did not have one to share with us or felt uncomfortable sharing their security system with us in some form which is perfectly understandable. We resorted mostly to youtube videos of people performing unboxings and setups of competing systems. During which we found that they were not difficult to set up in the case of the Ring doorbell and google nest and that the UI often was a simple UI with all the simple functionality of a general security system close at hand with some of the the more advanced features obstructed.</li>
 </ul>
 
-### Conclusions
+## Conclusions
 
 <ul>
   <li>Overall, our responses cared about data privacy and security, but were more weary of open source software. While the big corporations offer the features the user wants, a mobile application with motion detection, no one can be 100% sure what they are doing with the users data. The users data is an important feature shown by our survey so our product definitely has a spot in the market.</li>
@@ -50,7 +50,7 @@ We decided to use these instruments because the form made for an easy medium for
   <li>In our questionnaire we found that potential users are weary of open source, it may be worth discussing whether or not we should promote the open sourceness of our project as much as the other features </li>
 </ul>
 
-### Conclusions
+## Conclusions
 
 <ul>
   <li>Due to the small number of participants and limited reach of the survey, we have a very niche demographic currently being the only one surveyed. That demographic being the younger, technology savvy, computer science students in our course that will know more about software and data security.</li>
