@@ -37,3 +37,8 @@ We decided to use these instruments because the form made for an easy medium for
 </li>
 </ul>
   
+**Contextual Inquiry**
+
+ We did not get any of the volunteers for our contextual inquiry to share their security systems experience with us as most of the people we interviewed either did not have one to share with us or felt uncomfortable sharing their security system with us in some form which is perfectly understandable. We resorted mostly to youtube videos of people performing unboxings and setups of competing systems. During which we found that they were not difficult to set up in the case of the Ring doorbell and google nest and that the UI often was a simple UI with all the simple functionality of a general security system close at hand with some of the the more advanced features obstructed.
+
+
