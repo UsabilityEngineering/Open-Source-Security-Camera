@@ -1,8 +1,8 @@
 # Requirements Gathering
 
-## Methods
+### Methods
 
-### Questionnaire & Contextual Inquiry
+## Questionnaire & Contextual Inquiry
 
 We decided to use these instruments because the form made for an easy medium for distribution and data collection, and we believed that the contextual inquiry would be useful to see how a user would interact with a current competitor and how that benefitted or retracted from their experience
 
