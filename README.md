@@ -1,6 +1,6 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Open Source Security Camera
 
 !!!Brief introduction to the project's vision!!!
 
