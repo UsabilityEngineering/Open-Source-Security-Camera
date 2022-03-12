@@ -21,16 +21,16 @@ It is our belief that there are many people who would like to get a home or busi
 
 **Executive Summary**
 
-Our project goal is to create a cheap alternative open source security system so a user's footage and data is not exposed or sold to others. In this gathering phase we acquired input from users on essential features and wants on this system.
+Our project goal is to create a **cheap alternative open source security system** so a user's footage and **data is not exposed** or sold to others. In this gathering phase we acquired input from users on **essential features** and wants on this system.
 
-We surveyed a variety of people to get a rough understanding of their intended and concerns with the security system.
-* Online survey received (n=22) responses.
-* 22% of responses say they do not own a security system, but would like one
-* response says they own a security system and are not happy with the price
+We surveyed a **gropup of people** to get a rough understanding of their intended and concerns with the security system.
+* Online survey received **(n=22) responses**.
+* **22%** of responses say they **do not own a security system, but would like one**
+* **a response** who does have one says they own a security system and are **not happy with the price**
 
 From out requirements gathering we found:
-* That the principle of our project was sound and that people would be interested in a cheap and secure home security system at some point in their life even if that may not be now.
-* We also found that most the features for the project that the users would like are already known by the software developers and is in the development pipeline already
+* That the principle of our project was sound and that people would be **interested in a cheap and secure home security system** at some point in their life even if that may not be now.
+* We also found that most **requested features** for the project that the users would like are **already known** by the software developers and is **in the development pipeline already**.
 
 [Full phase 1 report](requirements/)
 
