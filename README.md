@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Open Source Security Camera
 
 It is our belief that there are many people who would like to get a home or business security system but hesitate when looking at the price tag or begin worrying about their data security as many large companies like to record your data and sell it to other companies. When it involves footage of one's home and family, consumers are often much more hesitant. The goal of this project will allow for an easy build/setup, cheaper alternative that will keep data more secure as each user can read the source system code and evaluate the safety of the system.
@@ -12,7 +10,6 @@ It is our belief that there are many people who would like to get a home or busi
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](/personas_and_scenarios_ossc.pdf) 
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
