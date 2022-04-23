@@ -79,3 +79,27 @@ This is the settings page this will have all the profile-specific settings such 
 
 This page is the profile our team decided that this page would just have the basic profile information. This is because there isnt mush one can add to the profile for this product. Our team have spread everything out into many pages but the profile will be where you can set your phone number and passcode for the duo authentication.
 
+
+# Create Account Page
+
+
+![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/create%20account.PNG)
+
+
+This page is a typical account creation page we feel that it would be useful for users to have an account.This is so they can customize their account.it will allow the user the option for notifications and other features of the app.
+
+
+# Account Athentication
+
+
+![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/account%20athentication.PNG)
+
+
+If the user has forgoten their password they will have an chance to identify themselves and change their password through this page.
+# Changing Password
+
+
+![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/changing%20password.PNG)
+
+
+The user will replace their old password with a new one if they need to, after clearing the authentication page. 
