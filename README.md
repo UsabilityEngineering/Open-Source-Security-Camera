@@ -44,12 +44,12 @@ We Create a WireFrame of the program, so there is an idea of what the program wi
 
 
 The creation of a wire frame is significant because it provides for a better understanding of the user experience.
-*Creates a better Grasp of what the users **experience** will be like, through **testing**.
-*Gives an idea of what the **program/website** will look like.
-*Lessens **work** for the developers.
-*Will hasten the process of developing.
-*will create less **errors** for the final product. 
-*creates a **better** end product.
+* Creates a better Grasp of what the users **experience** will be like, through **testing**.
+* Gives an idea of what the **program/website** will look like.
+* Lessens **work** for the developers.
+* Will hasten the process of developing.
+* will create less **errors** for the final product. 
+* creates a **better** end product.
 [Full phase 2 report](design/)
 
 # Phase 3: Usability Evaluation
