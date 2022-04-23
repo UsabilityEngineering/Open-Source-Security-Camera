@@ -50,6 +50,8 @@ The creation of a wire frame is significant because it provides for a better und
 * Will hasten the process of developing.
 * will create less **errors** for the final product. 
 * creates a **better** end product.
+
+
 [Full phase 2 report](design/)
 
 # Phase 3: Usability Evaluation
