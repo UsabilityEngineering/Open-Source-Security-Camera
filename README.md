@@ -35,6 +35,8 @@ From out requirements gathering we found:
 
 **Executive Summary**
 
+The goal of this phase is to design the interface of the product.This will bring to light potential faults the interface will have, it will also give an example of what the end product will look like for the users. 
+
 We Create a WireFrame of the program, so there is an idea of what the program will look like when done.
 * Designed a Homepage 
 * Designed a Cameras page
