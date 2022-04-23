@@ -39,12 +39,16 @@ From out requirements gathering we found:
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
+
+
 We Create a WireFrame of the program, so there is an idea of what the program will look like when done.
 * Designed a Homepage 
 * Designed a Cameras page
 * Designed a Notification page
 * Designed a Recordings page
 * Designed a Extras page
+
+
 The creation of a wire frame is significant because it provides for a better understanding of the user experience.
 *
 [Full phase 2 report](design/)
