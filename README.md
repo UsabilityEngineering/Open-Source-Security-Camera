@@ -39,6 +39,9 @@ From out requirements gathering we found:
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
+* * **[Nicholas Hibabrd](https://usabilityengineering.github.io/ux-portfolio-nickhib/)** - Helped with the wireframe, wrote up report , helped with prototype and executive summary. 
+* **[John Koistinen](https://discord.com/channels/@me/946508686468210688/952023828274487327)** - helped with wireframe, prototype and idea creation for many slides.John was on top of the project from the beginning he was the first to start adding wireframes and talk about the project  
+* **[Sean O'Leary](https://usabilityengineering.github.io/ux-portfolio-seanoleary22/)** - helped with wireframe and the prototype. Sean was very helpful with his vocal ideas it was easy to bounce off of him during team meetings. 
 
 [Full phase 2 report](design/)
 
