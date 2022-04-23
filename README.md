@@ -11,7 +11,7 @@ It is our belief that there are many people who would like to get a home or busi
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](/personas_and_scenarios_ossc.pdf) 
-* [Wireframes](#) - Coming soon!
+* [Wireframes](/431W_-_OSSC_xd_project.pdf)
 * [Prototype](#) - Coming soon!
 
 # Phase 1: Requirements Gathering
