@@ -3,7 +3,8 @@
 # Sign in Page 
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/log%20in.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175176-f1509f79-dad0-4b26-9112-9d9983082718.png)
+
 
 Our team decided to design a sign-in page for those that wish to access their account away from their home computer, for example when a client has their system set up but they wish to view their home feed from any device. They would need to log in to their account online to do it. This is assuming they have allowed their account to be online. 
 
