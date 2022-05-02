@@ -40,7 +40,7 @@ When one goes to the home page they will have the option to go to cameras and wh
 # Notifications Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/notification.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175371-c47d53ef-8152-4ed6-9700-e02a828ad7f0.png)
 
 
 Next, we have the notification page. The notification page will record specific instances when something of note has happened in the area of the camera. One may use the front door notification the most due to mailmen and others going to your door. The user will receive a notification of the specific event and will be able to see a small snippet of what has happened within the motion picture. Our team felt like this design would be very nice for the user experience because one will beagle to see all the notifications at will and select those of note with ease. 
