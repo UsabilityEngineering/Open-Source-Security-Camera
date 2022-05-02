@@ -77,7 +77,8 @@ This is the settings page this will have all the profile-specific settings such 
 # Prifile Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/profile.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175601-bd47d895-381e-44ea-a48e-41fd3ca041f9.png)
+
 
 
 This page is the profile our team decided that this page would just have the basic profile information. This is because there isnt mush one can add to the profile for this product. Our team have spread everything out into many pages but the profile will be where you can set your phone number and passcode for the duo authentication.
