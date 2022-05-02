@@ -97,7 +97,7 @@ This page is a typical account creation page we feel that it would be useful for
 # Account Athentication
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/account%20athentication.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175675-b8bffcfa-39e2-4dbb-87ec-71b1a558c164.png)
 
 
 If the user has forgoten their password they will have an chance to identify themselves and change their password through this page.
