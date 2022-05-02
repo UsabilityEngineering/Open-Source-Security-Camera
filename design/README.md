@@ -58,7 +58,7 @@ The recordings page will store all the recordings of notes for the user to acces
 # Extras Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/Extras.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175450-6f05cc5c-1707-4c24-b50e-6417212675b4.png)
 
 
 This page is for any extra features we can come up with for the user to use. This page will be further edited in the future because the team feels that there is plenty of extra functionality that can be added to this page. Currently, it only does a few tasks but this can have more options especially if the user wishes to mode the code they may be able to add it to their specific local launcher here. 
