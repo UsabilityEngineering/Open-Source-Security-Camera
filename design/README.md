@@ -67,7 +67,8 @@ This page is for any extra features we can come up with for the user to use. Thi
 # Settings Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/settings.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175552-96c38748-f75e-4a2d-91f1-17aef4991c6b.png)
+
 
 
 This is the settings page this will have all the profile-specific settings such as customization. For example, if one wants to have the page black instead of white for easier viewing on the eyes. They can also have the option to turn on notifications and this will allow their system to show notifications on your windows os, or if one wants they can have it sent to their phone once they add a phone number to their profile. These is just several settings the user can check on and off. Our team will continue to talk to the software engineering team for ideas of what setting our team can add in the future as well, but with the scope of this project it might be pretty basic towards the end 
