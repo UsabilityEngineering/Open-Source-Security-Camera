@@ -87,7 +87,8 @@ This page is the profile our team decided that this page would just have the bas
 # Create Account Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/create%20account.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175626-77ac155b-a595-4679-8993-8e1e7d7a700b.png)
+
 
 
 This page is a typical account creation page we feel that it would be useful for users to have an account.This is so they can customize their account.it will allow the user the option for notifications and other features of the app.
