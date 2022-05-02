@@ -104,7 +104,6 @@ If the user has forgoten their password they will have an chance to identify the
 # Changing Password
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/changing%20password.PNG)
-
+![image](https://user-images.githubusercontent.com/98436821/166175720-883cf004-6306-4a29-b0ad-4da5f1fa7dd1.png)
 
 The user will replace their old password with a new one if they need to, after clearing the authentication page. 
