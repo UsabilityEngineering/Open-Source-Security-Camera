@@ -21,7 +21,8 @@ The team's has decided to make a duo authentication function to the website so i
 # Home Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/home.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175279-a26a0b67-b7e6-42a6-8181-ce5c286256fc.png)
+
 
 
 This is the home page of the website or program. Our team went with this design because it seems the most fluid and simple design we could think of. The user will be able to easily access all the required features of the app or website. It will display your main camera which one can select within the app.
