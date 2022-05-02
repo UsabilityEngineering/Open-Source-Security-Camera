@@ -49,7 +49,7 @@ Next, we have the notification page. The notification page will record specific 
 # Recordings Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/recordings.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175409-f4b68ac6-ab8f-4f55-a242-abc624fe0ba8.png)
 
 
 The recordings page will store all the recordings of notes for the user to access at their will. We decided to sort the recordings by the cameras that she or he has added to the system and it gives that kind of Netflix scroller feel. One will be able to scroll to the right depending on the number of cameras they have per area. It would more likely be maybe at most 3 cameras per room or area. The recordings will be sorted by the most recent recordings, left to right. Our team thinks this is the most fluid way to do this because there are many websites with this same feature for videos and the user may be already acquainted with this design.
