@@ -31,7 +31,7 @@ This is the home page of the website or program. Our team went with this design 
 # Cameras Page
 
 
-![image](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/cameras.PNG)
+![image](https://user-images.githubusercontent.com/98436821/166175334-043ec058-2dd5-487f-bb7f-59aac813b202.png)
 
 
 When one goes to the home page they will have the option to go to cameras and when the user clicks the cameras a view of all his cameras will appear. One will be able to view all their cameras from here. 
