@@ -15,7 +15,7 @@ Our team decided to design a sign-in page for those that wish to access their ac
 ![image](https://user-images.githubusercontent.com/98436821/166175245-f5d68d10-b705-459b-b694-30bedf56899c.png)
 
 
-The teams has decided to make a duo authentication function to the website so if one is on the go they can have a bit more security to their account. This is for the users that are a bit more fearful of their account information being linked or maybe their footage being stolen.
+The team has decided to make a duo authentication function on the website so if one is on the go they can have a bit more security to their account. This is for the users that are a bit more fearful of their account information being linked or maybe their footage being stolen.
 
 
 # Home Page
