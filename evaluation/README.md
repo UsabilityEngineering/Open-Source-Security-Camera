@@ -2,6 +2,8 @@
 
 [Interactive Prototype](https://xd.adobe.com/view/c3e8889d-0372-4df5-80f5-b2e23250953c-96bb/)
 
+## Findings 
+
 
 ## Protocol
 
@@ -30,3 +32,6 @@ After all of the tasks had been completed we conducted a simple Wrap-up where we
 ## Study Approach
 
 Our approach to the study was primarily a formative evaluation. Because not all of our participants had experience using a competitor home security system before, we thought it would be best to focus on what worked best in our current design and what didn’t. Our main concern was figuring out what didn’t work to our expectations. Because we had designed the prototype, navigating the UI came easy. We needed fresh eyes who had never seen it before to determine if our UI was actually as usable as we had hoped. In order to gain the most information possible we urged the participants to think aloud during the test to understand what they were thinking and what their decision process looked like. 
+
+
+## Interpretation
