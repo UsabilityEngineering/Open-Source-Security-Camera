@@ -39,7 +39,7 @@ Our approach to the study was primarily a formative evaluation. Because not all 
 
 ## Interpretation
 
-Summary of how you would interpret the results of the mock data (as if it was real data)
+(interpretation of mock data as if it were real)
 
 We were very pleased with our data gathered from the usability tests as all users found the style of the prototype and the layout to be fairly concise and easy to use. That being said, we received very consistent constructive feedback from users that aligned with our understanding of issues in the design of our site that we had already been made aware of but wanted to validate. As such we feel comfortable implementing a couple changes to the design. 
 
