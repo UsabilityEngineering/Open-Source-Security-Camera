@@ -2,13 +2,16 @@
 
 [Interactive Prototype](https://xd.adobe.com/view/c3e8889d-0372-4df5-80f5-b2e23250953c-96bb/)
 
-## Findings 
+## Findings from heuristic evaluations/ cognitive walkthroughs
+
+During our heuristic evaluation and cognitive walkthrough we received consistently positive feedback on our prototype coming to the general consensus that it was very clean and utilitarian in nature. The only constructive feedback we had involved proper labeling of page categories as they seemed either vague or redundant as well as the location of some of the features such as camera addition and cloud storage under the extras tab being a bit difficult to find so they would likely be moved or have the tab renamed.
 
 
 ## Protocol
 
 [Protocol PDF](/protocol.pdf) 
 
+For the protocol we designed three tasks which we thought were good to get a gauge on how usable our prototype currently is. 
 
 ### Task 1
 
@@ -35,3 +38,13 @@ Our approach to the study was primarily a formative evaluation. Because not all 
 
 
 ## Interpretation
+
+Summary of how you would interpret the results of the mock data (as if it was real data)
+
+We were very pleased with our data gathered from the usability tests as all users found the style of the prototype and the layout to be fairly concise and easy to use. That being said, we received very consistent constructive feedback from users that aligned with our understanding of issues in the design of our site that we had already been made aware of but wanted to validate. As such we feel comfortable implementing a couple changes to the design. 
+
+The first point of feedback of which was involving task 1 where we found that most users when attempting to add a camera would first go to the camera page to do so looking for the option there, then to settings, and then to extras where the setting actually was. So based on this we decided that it would likely be best to add the option to add a camera to that cameras page.
+
+The second point of feedback was involving the overall design mainly in the naming of the extras tab as there seemed to be more device related settings compared to extras which the users found to be a bit vague. The fix to this proposed by the users was to rename it as “device settings” which the users received much better.
+
+Another notable point received from a couple users was the layout of the home page seemed a bit redundant. The users mentioned that it would be nice for the cameras page to be the home page instead and to have the cameras open up to the size of the home page window when the individual cameras are clicked. Although this setting mostly applies to a user that would have more than one camera as the users with one camera would only have one option and it would be easier to leave in the current implementation. So we are considering adding the option to do both.
