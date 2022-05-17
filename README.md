@@ -60,9 +60,20 @@ The creation of a wire frame is significant because it provides for a better und
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+In order to verify our prototype's design we created a protocol for a usability test that we carried out with other students. This protocol had the participants run through a number of tasks where the participant had to navigate through the user interface. While they were completing the tasks we asked them to think aloud so we could better understand the thought process someone goes through while attempting to navigate.
+
+* Created informed consent document which participants agree to before usability test
+* Designed protocol for conducting usability test 
+* Conducted usability test with multiple participants
+* Took notes and organized data for analyzing
+
+The data that we gathered from the usability test will help us understand the strengths and weaknesses of our prototype.
+
+* Understand what went right in our prototype
+* Understand where we went wrong and how it can be improved
+* See if there are any additional features users would like
+* Find out if there are any unwanted or not needed features in the current design
+
+
 
 [Full phase 3 report](evaluation/)
