@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/98436821/166175176-f1509f79-dad0-4b26-9112-9d9983082718.png)
 
 
-Our team decided to design a sign-in page for those that wish to access their account away from their home computer, for example when a client has their system set up but they wish to view their home feed from any device. They would need to log in to their account online to do it. This is assuming they have allowed their account to be online. 
+Our team decided to design a sign-in page for those that wish to access their account away from their home computer, for example when a client has their system set up, but they wish to view their home feed from any device. They would need to log in to their account online to do it. This is assuming they have allowed their account to be online. 
 
 
 # Duo Authentication
@@ -15,7 +15,7 @@ Our team decided to design a sign-in page for those that wish to access their ac
 ![image](https://user-images.githubusercontent.com/98436821/166175245-f5d68d10-b705-459b-b694-30bedf56899c.png)
 
 
-The team's has decided to make a duo authentication function to the website so if one is on the go they can have a bit more security to their account. This is for the users that are a bit more fearful of their account information being linked or maybe their footage being stolen.
+The teams has decided to make a duo authentication function to the website so if one is on the go they can have a bit more security to their account. This is for the users that are a bit more fearful of their account information being linked or maybe their footage being stolen.
 
 
 # Home Page
@@ -71,17 +71,17 @@ This page is for any extra features we can come up with for the user to use. Thi
 
 
 
-This is the settings page this will have all the profile-specific settings such as customization. For example, if one wants to have the page black instead of white for easier viewing on the eyes. They can also have the option to turn on notifications and this will allow their system to show notifications on your windows os, or if one wants they can have it sent to their phone once they add a phone number to their profile. These is just several settings the user can check on and off. Our team will continue to talk to the software engineering team for ideas of what setting our team can add in the future as well, but with the scope of this project it might be pretty basic towards the end 
+This is the settings page this will have all the profile-specific settings such as customization. For example, if one wants to have the page black instead of white for easier viewing on the eyes. They can also have the option to turn on notifications and this will allow their system to show notifications on your Windows OS, or if one wants they can have it sent to their phone once they add a phone number to their profile. These is just several settings the user can check on and off. Our team will continue to talk to the software engineering team for ideas of what setting our team can add in the future as well, but with the scope of this project it might be pretty basic towards the end 
 
 
-# Prifile Page
+# Profile Page
 
 
 ![image](https://user-images.githubusercontent.com/98436821/166175601-bd47d895-381e-44ea-a48e-41fd3ca041f9.png)
 
 
 
-This page is the profile our team decided that this page would just have the basic profile information. This is because there isnt mush one can add to the profile for this product. Our team have spread everything out into many pages but the profile will be where you can set your phone number and passcode for the duo authentication.
+This page is the profile our team decided that this page would just have the basic profile information. This is because there isn't much one can add to the profile for this product. Our team have spread everything out into many pages, but the profile will be where you can set your phone number and passcode for the duo authentication.
 
 
 # Create Account Page
