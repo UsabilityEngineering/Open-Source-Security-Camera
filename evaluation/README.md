@@ -9,7 +9,7 @@ During our heuristic evaluation and cognitive walkthrough we received consistent
 
 ## Protocol
 
-[Protocol PDF](/protocol.pdf) 
+[Protocol PDF]([/protocol.pdf](https://github.com/UsabilityEngineering/Open-Source-Security-Camera/blob/main/protocol.pdf)) 
 
 For the protocol we designed three tasks which we thought were good to get a gauge on how usable our prototype currently is. 
 
