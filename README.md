@@ -14,7 +14,7 @@ It is our belief that there are many people who would like to get a home or busi
  
 * [Personas and Scenarios](/personas_and_scenarios_ossc.pdf) 
 * [Wireframes](/431W_-_OSSC_xd_project.pdf)
-* [Wireframes Higher Fidelity]([/431W_-_OSSC_xd_project.pdf](https://xd.adobe.com/view/feff89d8-acc6-4256-954d-b8e49108a389-abac/screen/75411965-22b7-43b7-acc1-a3b770375098))
+* [Wireframes Higher Fidelity](/431W_-_OSSC_xd_project233.pdf)
 * [Prototype](https://xd.adobe.com/view/8ee3a12a-3457-42fc-b9a5-917adc24d0fd-dbb0/)
 
 # Phase 1: Requirements Gathering
