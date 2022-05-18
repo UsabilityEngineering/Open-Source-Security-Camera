@@ -4,14 +4,17 @@ It is our belief that there are many people who would like to get a home or busi
 
 ## UX Team Members
 
-* **[Nicholas Hibabrd](https://usabilityengineering.github.io/ux-portfolio-nickhib/)** - Helped with the questionnaire, wrote the personas and scenarios.met with the software team to get a better understanding of the project and what they’ve done so far.gace out the questionnaire.
-* **[John Koistinen](https://usabilityengineering.github.io/ux-portfolio-johnk-21/)** - Helped develop the questionnaire, wrote about findings from the questionnaire, and helped write about the conclusions that were drawn from the questionnaire
-* **[Sean O'Leary](https://usabilityengineering.github.io/ux-portfolio-seanoleary22/)** - Helped write questionnaire, wrote Caveats, studied videos for Contextual inquiry, and helped write about conclusions drawn from the questionnaire.
+* **[Nicholas Hibabrd](https://usabilityengineering.github.io/ux-portfolio-nickhib/)** - with the questionnaire, wrote the personas and scenarios. met with the software team to get a better understanding of the project and what they’ve done so far. helped out with the questionnaire. Wrote some of the wireframes and higher fidelity versions. Participated in data collection and revision 
+* **[John Koistinen](https://usabilityengineering.github.io/ux-portfolio-johnk-21/)** - Helped develop the questionnaire, wrote about findings from the questionnaire, and helped write about the conclusions that were drawn from the questionnaire.Wrote some of the wireframes and participated in data collection and revision 
+
+* **[Sean O'Leary](https://usabilityengineering.github.io/ux-portfolio-seanoleary22/)** - Helped write questionnaire, wrote Caveats, studied videos for Contextual inquiry, and helped write about conclusions drawn from the questionnaire. Wrote some of the wireframes and participated in data collection and revision 
+
 
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](/personas_and_scenarios_ossc.pdf) 
 * [Wireframes](/431W_-_OSSC_xd_project.pdf)
+* [Wireframes Higher Fidelity]([/431W_-_OSSC_xd_project.pdf](https://xd.adobe.com/view/feff89d8-acc6-4256-954d-b8e49108a389-abac/screen/75411965-22b7-43b7-acc1-a3b770375098))
 * [Prototype](https://xd.adobe.com/view/8ee3a12a-3457-42fc-b9a5-917adc24d0fd-dbb0/)
 
 # Phase 1: Requirements Gathering
